@@ -1,6 +1,0 @@
-{
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "price-tracker", 
-  "main": "index.js", // Asegúrate de que apunte a tu archivo principal (ej. index.js, src/index.js, etc.)
-  "compatibility_date": "2026-05-24"
-}
